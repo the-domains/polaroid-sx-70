@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Polaroid SX-70]]></title>
+        <description><![CDATA[Polaroid SX-70]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jun 2016 18:58:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My review of the new Impossible film]]></title>
+            <description><![CDATA[<article><h1>My review of the new Impossible film</h1><p>https://spark.adobe.com/video/HyTWaB4E</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0f8ff3f102fad4711acd793f4b1c12b/croprotate.jpg?cropheight=2976&cropwidth=2447&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F349bb821-f6ed-4489-b0e3-ab9508d6c50b.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/349bb821-f6ed-4489-b0e3-ab9508d6c50b.jpg</link>
+            <guid isPermaLink="false">71d6a7c9-e62d-4d4e-bf66-8ac9a49c958f</guid>
+            <pubDate>Thu, 30 Jun 2016 18:58:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
