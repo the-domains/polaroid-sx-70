@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8348287
+color:
+  saturation: 0.7353644
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#010101'
+    - '#FDFDFD'
+    - '#75797C'
+    - '#EA672E'
+    - '#7E0C09'
+  rhythmicContrast: 0.7137961
+name: Polaroid SX-70
