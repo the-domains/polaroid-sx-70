@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Polaroid SX-70]]></title>
         <description><![CDATA[Polaroid SX-70]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/polaroid-sx-70/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 18:58:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 19:22:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/polaroid-sx-70/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impossible prints]]></title>
+            <description><![CDATA[<article><h1>Impossible prints</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73d3bc6ca3fcab12afae763a16aceaff3379e9d9.jpg"></article>]]></description>
+            <link>https://spark.adobe.com/page/MSkhz/</link>
+            <guid isPermaLink="false">20a45a2a-8170-4ab9-8436-f2e05ed43f12</guid>
+            <pubDate>Thu, 30 Jun 2016 19:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My review of the new Impossible film]]></title>
             <description><![CDATA[<article><h1>My review of the new Impossible film</h1><p>https://spark.adobe.com/video/HyTWaB4E</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0f8ff3f102fad4711acd793f4b1c12b/croprotate.jpg?cropheight=2976&cropwidth=2447&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F349bb821-f6ed-4489-b0e3-ab9508d6c50b.jpg&x=0&y=0"></article>]]></description>
