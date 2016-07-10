@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.8348287
+layout_spectrum: 0.9993742
+name: Polaroid SX-70
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7353644
-  lightness: 1
   brandStrength: 1
+  saturation: 0.7353644
   brandColors:
     - '#010101'
     - '#FDFDFD'
     - '#75797C'
     - '#EA672E'
     - '#7E0C09'
+  lightness: 1
   rhythmicContrast: 0.7137961
-name: Polaroid SX-70
+typography_spectrum: 0.3785982
